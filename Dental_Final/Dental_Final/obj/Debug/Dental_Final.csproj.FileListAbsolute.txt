@@ -1,0 +1,34 @@
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\bin\Debug\Dental_Final.exe.config
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\bin\Debug\Dental_Final.exe
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\bin\Debug\Dental_Final.pdb
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.csproj.AssemblyReference.cache
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Adding_Patient.resources
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Appointments.resources
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Dashboard.resources
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Log_in.resources
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Patients.resources
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Properties.Resources.resources
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.csproj.GenerateResource.cache
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.csproj.CoreCompileInputs.cache
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.exe
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.pdb
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.exe.config
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Add_Service.resources
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Services.resources
+C:\Users\Niel\Source\Repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Edit_Services.resources
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.csproj.AssemblyReference.cache
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.exe.config
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Adding_Patient.resources
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Appointments.resources
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Dashboard.resources
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Log_in.resources
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Patients.resources
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Properties.Resources.resources
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.csproj.GenerateResource.cache
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.csproj.CoreCompileInputs.cache
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.exe
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.pdb
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\bin\Debug\Dental_Final.exe.config
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\bin\Debug\Dental_Final.exe
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\bin\Debug\Dental_Final.pdb
+C:\Users\eljohn espiritu\source\repos\Dental_Final\Dental_Final\obj\Debug\Dental_Final.Services_Manage.resources
